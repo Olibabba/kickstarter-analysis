@@ -9,8 +9,8 @@ In analyzing fundraisers of the past we find a number of trends that can help us
 ## Findings
 ### Success of Kickstarters for Theatre and Plays Specifically
 As you can see from the charts below, we have reason to be optimistic based solely on the fact that theatre kickstarters, and plays specifically are more successful than any other type of fundraiser. 
-![Parent Category Outcomes.png](/Users/oliver/Documents/Bootcamp/Excel/Module 1)
-![SubCategory Outcomes.png](/Users/oliver/Documents/Bootcamp/Excel/Module 1/SubCategory Outcomes.png)
+![Parent Category Outcomes](/.../main/kickstarter-analysis/Parent Category Outcomes.png)
+![SubCategory Outcomes.png](/assets/images//SubCategory Outcomes.png)
  
  Of course the sheer number of theatre fundraisers is above all other categories, and plays specifically dwarf all other theatre subcategories. So let's look closer a those individually.
  ![TheatreOutcomes.png]()
